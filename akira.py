@@ -1,3 +1,14 @@
+####################################->
+#4312644bf54db17180c8a95add9fdc06####-->uauauauauauauau
+#9dfb17e500b557a9d985c08da4fd0aaf#####--->We will fuck your site D:
+#5afc3c0f68ff47b53b485fcd53e898a9######---->Anonymous :(
+#ff46a6b3100d11c29d4233c72f604a10#####--->uauauauauauau
+#6e70e3b1bf171ae14505f4f8b0dc4e5a####-->
+####################################->
+#https://www.youtube.com/watch?v=Aps4ZczffVw#
+#Allahu Akbar!#
+
+
 import urllib2
 import sys
 import threading
@@ -196,12 +207,14 @@ print \
                 ####!!!!!!!!!!!!!!!!!###
                    ################# 
 _________________________________________________________________
+
   ################## Smoking loud I'm a lonely cloud
   #SadBoys 2001    # I'm a lonely cloud, with my windows down
   #Yoshi city      # I'm a lonely, lonely, I'm a lonely, lonely
   #Akira botnet    # I'm a lonely, lonely, I'm a lonely, lonely
   #Add Sites       # I'm a lonely, lonely, I'm a lonely, lonely
   ################## I'm a lonely, lonely, I'm a lonely, lonely
+
   Music : https://www.youtube.com/watch?v=iX1a3JngmpI   
 _________________________________________________________________                                                           
 """
@@ -292,7 +305,7 @@ else:
 			t.start()
 		t = MonitorThread()
 		t.start()
-    
+
 ####################################->
 #4312644bf54db17180c8a95add9fdc06####-->uauauauauauauau
 #9dfb17e500b557a9d985c08da4fd0aaf#####--->We will fuck your site D:
